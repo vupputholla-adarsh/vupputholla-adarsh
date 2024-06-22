@@ -26,13 +26,12 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" height="35" alt="React"/>
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" width="100" height="35" alt="Redux"/>
     <img src="https://img.shields.io/badge/Netlify-319795?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
-    <!-- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" width="100" height="35" alt="Node.js"/>
+<!--     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" width="100" height="35" alt="Node.js"/>
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" width="100" height="35" alt="Express.js"/>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="100" height="35" alt="MongoDB"/>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="ChakraUI">
     <img src="https://img.shields.io/badge/Vercel-404D59?style=for-the-badge" width="100" height="35" alt="Vercel"/>
-
     <img src="https://img.shields.io/badge/Render-404D59?style=for-the-badge" width="100" height="35" alt="Render"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"> -->

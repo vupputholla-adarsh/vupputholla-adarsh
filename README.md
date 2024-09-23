@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adharsh</h1>
-<p align="center">- I am a Front-end web developer, I have done militry style coding and learnt Front-end Development by my Own. I have various individual projects in my coding journey.
+<p align="center">-
+A passionate Full Stack Developer who focus on writing clean and user friendly applications
     I also did my Graduation 🎓 from Sri Krishndevaraya University 🏛. 
      My interests are coding, reading about planets, browsing, exploring new areas.
    </p>
